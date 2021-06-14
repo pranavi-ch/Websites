@@ -1,0 +1,49 @@
+
+
+
+  body
+  { background-color: ghostwhite;
+    text-align: center;
+}
+p
+{
+  text-align: center;
+}
+  hr
+  {
+border-style: dotted none none ;
+width: 5%;
+border-width: 7px;
+border-color: slategray;
+  }
+img{
+background-color: ghostwhite;
+
+
+}
+img:hover
+{
+height: 250px;
+width: 250px;
+background-color: black;
+
+}
+.dp
+{
+  background-color: ghostwhite;
+}
+.circular
+{
+  border-radius: 100%;
+}
+h1
+{
+color: darkslategrey;
+text-align: center;
+
+}
+h3
+{
+  color: darkslategrey;
+  text-align: center;
+}
